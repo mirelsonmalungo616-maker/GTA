@@ -1,0 +1,6 @@
+{
+  "name": "San Andreas 3D",
+  "description": "Jogo 3D de mundo aberto inspirado em GTA San Andreas com Carl CJ Johnson, Grove Street, guerras de territórios Ballas e Vagos, bicicletas BMX, lowriders com suspensão hidráulica, jetpack, códigos de trapaça clássicos e missões épicas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
